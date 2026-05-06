@@ -31,6 +31,7 @@ RUN apt-get -q update \
        build-essential \
        python3-dev \
        python3-venv \
+       python3-requests \
        pipx \
        libffi-dev \
        libssl-dev \

@@ -2,7 +2,7 @@
 #
 # Originally created by:
 # Copyright (C) 2017-2019 Maciej Delmanowski <drybjed@gmail.com>
-# Copyright (C) 2017-2019 DebOps <https://debops.org/>
+# Copyright (C) 2017-2019 DebOps <https://debops.org/>, pbo
 #
 # Maintained by:
 # Copyright (C) 2024 Vojtěch Sajdl <vojtech@sajdl.com>

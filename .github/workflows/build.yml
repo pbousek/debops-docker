@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE: pryx/debops
+  IMAGE: pbousek/debops
   # Space-separated list of DebOps versions to build.
   # Use 'main' for the master branch → published as 'unstable'.
   # Versioned entries (e.g. v3.2.5) → published as 3.2.5, 3.2, 3.

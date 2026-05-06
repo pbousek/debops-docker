@@ -32,6 +32,7 @@ RUN apt-get -q update \
        python3-dev \
        python3-venv \
        python3-requests \
+       python-dateutil \
        pipx \
        libffi-dev \
        libssl-dev \
